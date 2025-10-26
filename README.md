@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Heavy File Scan — Windows PowerShell</h1>
+<h1 align="center"> Heavy File Scan | Windows PowerShell</h1>
 
 <p align="center">
   <b>Find huge files on your Windows drives, fast.</b><br>
